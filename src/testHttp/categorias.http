@@ -1,4 +1,4 @@
-@url = https://psychic-doodle-r74xxqxg4v25vv5-8080.app.github.dev
+@url = https://8080-matheusmora-apiquiz2024-98g69x560sd.ws-us116.gitpod.io
 
 ###
 GET {{url}}/categorias
